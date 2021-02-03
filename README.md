@@ -22,11 +22,11 @@
 ①	왕(공격 불가)
 ⑴	이동범위
 
-<img src="README/3.png" width="450px"></img> 
-<img src="README/4.png" width="450px"></img> 
-<img src="README/5.png" width="450px"></img> 
-<img src="README/6.png" width="450px"></img> 
-<img src="README/7.png" width="450px"></img> 
+<img src="README/3.PNG" width="450px"></img> 
+<img src="README/4.PNG" width="450px"></img> 
+<img src="README/5.PNG" width="450px"></img> 
+<img src="README/6.PNG" width="450px"></img> 
+<img src="README/7.PNG" width="450px"></img> 
 
 ### 클래스 다이어그램
 ![8](README/8.png)
