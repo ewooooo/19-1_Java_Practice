@@ -1,11 +1,13 @@
 # 19-1_Java_Practice
 # 2019-1 자바프로그래밍 Term Project
 
-## Project 1. 연락처프로그램
+# Project 1. 연락처프로그램
 
 ![p1](README/1.png)
 
-## Project 2. 
+---
+
+# Project 2. 
 
 1.	양쪽 Player는 China 혹은 America를 선택하여 플레이 가능하다.
 2.	Player1이 먼저 시작하며 왼쪽 진형이다.
@@ -33,6 +35,6 @@
 ![8](README/8.png)
 
 ---
-Developer:
+# Developer:
 
 남은우, 선태욱, 이수민
