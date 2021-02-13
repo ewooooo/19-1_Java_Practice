@@ -1,6 +1,6 @@
 # 19-1_Java_Practice
 # 2019-1 자바프로그래밍 Term Project
-
+---
 # Project 1. 연락처프로그램
 
 ![p1](README/1.png)
